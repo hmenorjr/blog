@@ -12,12 +12,10 @@ comments: true
             traffic is important for bloggers and people who writes for a living. Thus, creating his own blog site instead.
         </p>
         <p>
-            This website is built with Jekyll and Mediumish template for Jekyll. <br>
+            This website is built with Jekyll and Mediumish template for Jekyll. <br><br>
             <img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" />
         </p>
-        <p>
-            For affiliate marketing please do reach via one of the social media platforms.
-        <p/>
+        <p>For affiliate marketing please do reach via one of the social media platforms.</p>
     </div>
     <div class="col-md-4">
         <div class="sticky-top sticky-top-80">
