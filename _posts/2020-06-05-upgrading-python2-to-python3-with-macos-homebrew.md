@@ -86,7 +86,7 @@ _privacy not included_
 
 Turns out it’s an existing issue. Remember, Homebrew doesn’t allow or recommend to execute `brew` commands with `sudo` anymore to prevent issues.
 
-Source: https://github.com/Homebrew/homebrew-core/issues/30652
+Source: <a href="https://github.com/Homebrew/homebrew-core/issues/30652" target="_blank">https://github.com/Homebrew/homebrew-core/issues/30652</a>
 
 So we executed the following commands:
 ```shell

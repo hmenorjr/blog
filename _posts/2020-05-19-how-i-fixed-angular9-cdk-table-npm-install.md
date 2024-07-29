@@ -2,7 +2,7 @@
 layout: post
 title: "How I Fixed Angular 9 Export CDK_Table Issue on NPM Install"
 description: "You wouldn't believe how simple the solution is."
-image: assets/images/blog/angular_cdk_table_error.webp
+image: assets/images/blog/fotis-fotopoulos-unsplash.jpg
 categories: [web development]
 tags: [angular, npm, macos, homebrew]
 author: herman
@@ -10,6 +10,8 @@ featured: true
 rating: 5
 ---
 I was containerizing the front-end of an application that was build in `Angular 9` with `Bootstrap` and `Angular Material UI`. It was working on my developers' local terminals. However, when I containerized it, several warnings and this error occurs.
+
+![Screenshot of the Angular CDK table error]({{ site.baseurl }}/assets/images/blog/angular_cdk_table_error.webp)
 
 ## What I Did?
 Of course, I Googled my way into it. Tried the following according to the blogs:
