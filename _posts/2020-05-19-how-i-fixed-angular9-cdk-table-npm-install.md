@@ -30,7 +30,7 @@ However, when I opened the `package.json`, these are already installed.
 I tried to rearrange the lines of dependency
 
 **Before**
-```json
+```
  "private": true,
   "dependencies": {
     "@angular/animations": "~9.0.5",
@@ -54,7 +54,7 @@ I tried to rearrange the lines of dependency
 ```
 
 **After**
-```json
+```
 "private": true,
   "dependencies": {
     "@angular/animations": "~9.0.5",
@@ -87,16 +87,3 @@ For some reason the when `@angular/cdk` was added it was inserted at the top. Se
 ## The Result
 1. Most of the warnings were gone
 2. The `CDK_Table` issue was gone
-
-## Support
-Thank you for being a valued reader of my blog! Your support means the world to me and helps me continue to create valuable content for you. 
-
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
-<stripe-buy-button
-  buy-button-id="buy_btn_1PAWpKEYu0pSAPSug5UqKdxU"
-  publishable-key="pk_live_51NQ80nEYu0pSAPSupNEqzuXzhbshyKG4LiReIRin4NfdoiTVki55JMiUNkEFPMR1ZOGa0z7lmnjk546awmC6MpzA00v7ztnctD"
->
-</stripe-buy-button>
