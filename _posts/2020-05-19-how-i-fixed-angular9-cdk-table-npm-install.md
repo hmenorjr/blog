@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "How I Fixed Angular 9 Export CDK_Table Issue on NPM Install"
-intro: Angular 9 is a powerful open-source framework for building web applications, developed and maintained by Google. The CDK_TABLE is a part of the CDK, offering a flexible and customizable way to display tabular data in Angular applications.
-pubDate: 2020-05-19
+description: "You wouldn't believe how simple the solution is."
 image: assets/images/blog/angular_cdk_table_error.webp
 categories: [Angular, NPM, Web Development, Backend]
-author: hmenorjr
+author: herman
 ---
 I was containerizing the front-end of an application that was build in `Angular 9` with `Bootstrap` and `Angular Material UI`. It was working on my developers' local terminals. However, when I containerized it, several warnings and this error occurs.
 
