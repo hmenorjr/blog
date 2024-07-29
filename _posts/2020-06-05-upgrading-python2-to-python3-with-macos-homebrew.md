@@ -75,7 +75,7 @@ I tried removing the folder one by one and forgot you can just override it. Donâ
 
 Execute `$ brew link --overwrite python`
 
-![DJ Khaled Meme Another One]({{ site.baseurl }}/assets/blog/dj-khaled-another-one.png)
+![DJ Khaled Meme Another One]({{ site.baseurl }}/assets/images/blog/dj-khaled-another-one.png)
 
 ```shell
 Linking /usr/local/Cellular/python/3.7.7... Error: Permission Denied @ dir_s_mkdir â€” /usr/local/Frameworks
