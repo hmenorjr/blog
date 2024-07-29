@@ -3,8 +3,10 @@ layout: post
 title: "How I Fixed Angular 9 Export CDK_Table Issue on NPM Install"
 description: "You wouldn't believe how simple the solution is."
 image: assets/images/blog/angular_cdk_table_error.webp
-categories: [Angular, NPM, Web Development, Backend]
+categories: [Web Development]
+tags: [angular, npm, macos, homebrew]
 author: herman
+rating: 5
 ---
 I was containerizing the front-end of an application that was build in `Angular 9` with `Bootstrap` and `Angular Material UI`. It was working on my developers' local terminals. However, when I containerized it, several warnings and this error occurs.
 
