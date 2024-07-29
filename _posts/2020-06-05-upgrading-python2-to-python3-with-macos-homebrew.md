@@ -2,7 +2,7 @@
 layout: post
 title: "Upgrading Python2 to Python3 in MacOS with Homebrew"
 author: herman
-categories: [ Programming, Software Development ]
+categories: [ programming, software development ]
 tags: [ python2, python3, macos, homebrew ]
 image: assets/images/blog/christopher-gower-unsplash.jpg
 description: "How I upgraded python2 to python3 in my MacOS with Homebrew and what I learned."
