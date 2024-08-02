@@ -4,8 +4,8 @@ GEM
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
-    csv (3.3.0)
     concurrent-ruby (1.1.4)
+    csv (3.3.0)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
@@ -59,7 +59,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
-    rexml (3.3.2)
+    rexml (3.3.3)
       strscan
     rouge (3.3.0)
     ruby_dep (1.5.0)
